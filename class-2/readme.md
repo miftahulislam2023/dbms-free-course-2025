@@ -39,4 +39,4 @@ ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that 
 +---------------------+
 | product             |
 +---------------------+
-1 row in set (0.000 sec) 
+1 row in set (0.000 sec)
