@@ -9,6 +9,7 @@
 - Date and Time -> তারিখ এবং সময় সংক্রান্ত
   - DATE -> 'YYYY-MM-DD'
   - TIME -> 'hhh:mm:ss'
+  - DATETIME -> 'YYYY-MM-DD hh:mm:ss'
   - TIMESTAMP -> 'YYYY-MM-DD hh:mm:ss'
 - String -> অক্ষর, শব্দ ইত্যাদি
   - The CHAR and VARCHAR Types
