@@ -5,7 +5,7 @@
   - Variant manually ইনপুট দিতে হচ্ছে
   - Date manually ইনপুট দিতে হচ্ছে
   - Customer table এ প্রোডাক্ট ইনফর্মেশন কেন থাকবে?
-- Solution হল রিলেশন ইউজ করা
+- Solution হল **রিলেশন** ইউজ করা
 
 ## Sheets/Excel
 - Row, Column, Cell
@@ -16,7 +16,6 @@
 ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-commerce' at line 1
 - CREATE database ecommerce;
 Query OK, 1 row affected (0.004 sec)
-
 
 ## ২য় কাজ - Database এ প্রবেশ করা
 - SELECT database ecommerce;
